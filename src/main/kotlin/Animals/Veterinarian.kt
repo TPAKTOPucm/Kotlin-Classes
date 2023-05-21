@@ -1,3 +1,5 @@
+package Animals
+
 import Animals.Animal
 
 class Veterinarian {
